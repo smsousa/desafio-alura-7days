@@ -1,0 +1,11 @@
+:root {
+    --fonte-padrao: 'Inter', sans-serif;
+    --cinza: #667085;
+    --vermelho: #8E2424;
+    --branco: #fff;
+}
+
+
+body {
+    font-family: var(--fonte-padrao);
+}

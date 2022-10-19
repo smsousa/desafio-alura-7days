@@ -1,0 +1,21 @@
+.sobre-nos {
+    text-align: center;
+    padding: 6em 0;
+}
+
+.sobre-nos__titulo1 {
+    color: var(--vermelho);
+    font-weight: 600;
+}
+
+.sobre-nos__titulo2 {
+    font-weight: 600;
+    font-size: 3em;
+    margin: 1em 0;
+}
+
+.sobre-nos__descricao {
+    font-size: 1.25em;
+    color: var(--cinza);
+
+}
