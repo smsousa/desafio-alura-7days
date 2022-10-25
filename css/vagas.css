@@ -1,0 +1,44 @@
+.vagas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.vagas__lista:first-child {
+    margin-bottom: 2rem ;
+}
+
+.vagas__titulo {
+    font-size: 1.25em;
+    font-weight: 500;
+    color: var(--preto);
+    padding-bottom: 1rem;
+}
+
+.item {
+    display: inline-block;
+}
+
+.vagas__item {
+    font-size: 1.125em;
+    font-weight: 500;
+    color: var(--preto);
+    padding-bottom: 2rem;
+}
+
+.vagas__container {
+    border: 1px solid var(--cor-da-borda);
+    border-radius: 1rem;
+    width: 48rem;
+    padding: 1.5em;
+    margin: 1em 0;
+}
+
+.item__definicao, .item__salario {
+    color: var(--cinza);
+    font-weight: 500;
+}
+
+.item__salario {
+    margin-left: 2rem;
+}

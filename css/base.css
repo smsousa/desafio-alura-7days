@@ -3,9 +3,14 @@
     --cinza: #667085;
     --vermelho: #8E2424;
     --branco: #fff;
+    --preto: #101828;
+    --cor-da-borda: #EAECF0;
+    --cor-do-rodape: #F9FAFB;
+    --borda-email: #D0D5DD;
 }
 
 
 body {
     font-family: var(--fonte-padrao);
+    font-size: 16px;
 }

@@ -1,13 +1,14 @@
 .cabecalho {
+    box-sizing: border-box;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-    padding: 1.5em;
+    padding: 1.5em 6.5em;
 }
 
 .cabecalho__lista {
     display: flex;
-    margin: 0 40vw 0 7vw;
+    padding-right: 40vw;
 }
 
 .cabecalho__item {
